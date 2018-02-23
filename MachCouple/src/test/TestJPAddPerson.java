@@ -9,7 +9,7 @@ public class TestJPAddPerson {
 		JFrame jFrame = new JFrame();
 		JPanelAddPerson jPanelAddPerson = new JPanelAddPerson();
 		jFrame.add(jPanelAddPerson);
-		jFrame.setSize(250,400);
+		jFrame.setSize(400,300);
 		jFrame.setDefaultCloseOperation(jFrame.EXIT_ON_CLOSE);
 		jFrame.setVisible(true);
 	}
