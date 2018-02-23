@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Users>
+  <user>
+    <id>1651651</id>
+    <name>jhonn</name>
+    <age>40</age>
+    <gender>MALE</gender>
+    <likeSport>true</likeSport>
+    <likeKids>false</likeKids>
+  </user>
+  <user>
+    <id>654465</id>
+    <name>dania</name>
+    <age>30</age>
+    <gender>FEMALE</gender>
+    <likeSport>false</likeSport>
+    <likeKids>false</likeKids>
+  </user>
+  <user>
+    <id>6654656</id>
+    <name>Carlos</name>
+    <age>19</age>
+    <gender>MALE</gender>
+    <likeSport>true</likeSport>
+    <likeKids>true</likeKids>
+  </user>
+  <user>
+    <id>989754</id>
+    <name>Daniela</name>
+    <age>46</age>
+    <gender>FEMALE</gender>
+    <likeSport>true</likeSport>
+    <likeKids>false</likeKids>
+  </user>
+</Users>
